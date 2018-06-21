@@ -1,0 +1,64 @@
+body {
+    background-color: lightblue;
+}
+
+div#wrapper {
+    width: 960px; /* fixed page width */
+    margin-left: auto; /* set equal left and right margins to center the entire page */
+    margin-right: auto;
+}
+section#left_section {
+    width: 320px; /* reduce width */
+    float: left; /* make it sit side-by-side with other section */
+      font-size: 25px;
+
+}
+section#right_section {
+    width: 640px; /* reduce width */
+    float: left; /* make it sit side-by-side with other section */
+      font-size: 25px;
+}
+div.clear {
+    clear: both; /* makes sure nothing sits to the left or the right of these insvisible divs */
+}
+
+h1{
+	color: black;
+  font-style: bold;
+  background-color: white;
+  padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+p{
+   padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+div.art1 {
+    
+    float: left; /* make it sit side-by-side with other section */
+      font-size: 25px;
+}
+
+table {
+   border: 1px solid black;
+   width:50%;
+
+ }
+ td {
+    height: 50px;
+    vertical-align: bottom;
+     border: 1px solid black;
+}
+
+th{
+  border: 2px solid black;
+  font-size: 25px;
+  font-style: bold;
+   height: 50px;
+   text-align: center;
+
+}

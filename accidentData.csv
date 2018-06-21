@@ -1,0 +1,507 @@
+BOROUGH,NUMBER OF PERSONS KILLED,NUMBER OF PERSONS INJURED,NUMBER OF PEDESTRIANS INJURED,CONTRIBUTING FACTOR VEHICLE 1
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Backing Unsafely
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Lost Consciousness
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,1,1,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Driver Inattention/Distraction
+BRONX,0,0,0,Driver Inattention/Distraction
+BRONX,0,0,0,Prescription Medication
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Other Vehicular
+BRONX,0,0,0,Unspecified
+BRONX,0,1,1,Failure to Yield Right-of-Way
+BRONX,0,0,0,Driver Inattention/Distraction
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Passenger Distraction
+BRONX,0,2,0,Unspecified
+BRONX,0,0,0,Physical Disability
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Reaction to Other Uninvolved Vehicle
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Alcohol Involvement
+BRONX,0,0,0,Fatigued/Drowsy
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Alcohol Involvement
+BRONX,0,0,0,Backing Unsafely
+BRONX,0,0,0,Other Vehicular
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Driver Inattention/Distraction
+BRONX,0,1,1,Driver Inattention/Distraction
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,1,1,Driver Inattention/Distraction
+BRONX,0,3,3,Driver Inattention/Distraction
+BRONX,0,0,0,Driver Inattention/Distraction
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Passing or Lane Usage Improper
+BRONX,0,1,0,Unspecified
+BRONX,0,1,1,Passenger Distraction
+BRONX,0,1,0,Unspecified
+BRONX,0,0,0,Other Vehicular
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Unspecified
+BRONX,0,1,0,Fatigued/Drowsy
+BRONX,0,0,0,Prescription Medication
+BRONX,0,0,0,Unspecified
+BRONX,0,0,0,Other Vehicular
+BRONX,0,0,0,Unspecified
+BROOKLYN,0,0,0,Failure to Yield Right-of-Way
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,2,0,Brakes Defective
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Prescription Medication
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Traffic Control Disregarded
+BROOKLYN,0,2,0,Unspecified
+BROOKLYN,0,1,0,Unspecified
+BROOKLYN,0,1,0,Unspecified
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Prescription Medication
+BROOKLYN,0,1,0,Unspecified
+BROOKLYN,0,1,1,Failure to Yield Right-of-Way
+BROOKLYN,0,2,0,Physical Disability
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Physical Disability
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,0,0,Lost Consciousness
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,0,0,Passenger Distraction
+BROOKLYN,0,0,0,Physical Disability
+BROOKLYN,0,0,0,Backing Unsafely
+BROOKLYN,0,0,0,Turning Improperly
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,1,0,Physical Disability
+BROOKLYN,0,0,0,Failure to Yield Right-of-Way
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,1,1,Unspecified
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,1,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Physical Disability
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,2,2,Backing Unsafely
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,4,0,Traffic Control Disregarded
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,1,1,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,2,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Prescription Medication
+BROOKLYN,0,2,0,Unsafe Speed
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Other Vehicular
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,1,1,Unspecified
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,1,0,Alcohol Involvement
+BROOKLYN,0,1,1,Unspecified
+BROOKLYN,0,0,0,Driver Inexperience
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,1,0,Outside Car Distraction
+BROOKLYN,0,0,0,
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Failure to Yield Right-of-Way
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,0,0,Other Vehicular
+BROOKLYN,0,4,0,Alcohol Involvement
+BROOKLYN,0,1,1,Failure to Yield Right-of-Way
+BROOKLYN,0,2,0,Physical Disability
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Turning Improperly
+BROOKLYN,0,0,0,Lost Consciousness
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unsafe Speed
+BROOKLYN,0,2,0,Prescription Medication
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Oversized Vehicle
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Pavement Defective
+BROOKLYN,0,0,0,Turning Improperly
+BROOKLYN,0,0,0,Failure to Yield Right-of-Way
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,1,0,Traffic Control Disregarded
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Prescription Medication
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,1,0,Alcohol Involvement
+BROOKLYN,0,1,0,Fatigued/Drowsy
+BROOKLYN,0,2,0,Unspecified
+BROOKLYN,0,0,0,Following Too Closely
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unsafe Speed
+BROOKLYN,0,1,1,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Alcohol Involvement
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,2,0,Unspecified
+BROOKLYN,0,1,0,Driver Inattention/Distraction
+BROOKLYN,0,0,0,Physical Disability
+BROOKLYN,0,1,1,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Backing Unsafely
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,0,0,Failure to Yield Right-of-Way
+BROOKLYN,0,0,0,Prescription Medication
+BROOKLYN,0,0,0,Backing Unsafely
+BROOKLYN,0,0,0,Aggressive Driving/Road Rage
+BROOKLYN,0,0,0,Fatigued/Drowsy
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,1,1,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,2,0,Physical Disability
+BROOKLYN,0,0,0,Driver Inattention/Distraction
+BROOKLYN,0,1,0,Traffic Control Disregarded
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Lost Consciousness
+BROOKLYN,0,1,1,Unspecified
+BROOKLYN,0,0,0,Other Vehicular
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Backing Unsafely
+BROOKLYN,0,0,0,Other Vehicular
+BROOKLYN,0,0,0,Unspecified
+BROOKLYN,0,0,0,Unspecified
+MANHATTAN,0,1,1,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,2,0,Lost Consciousness
+MANHATTAN,0,0,0,Aggressive Driving/Road Rage
+MANHATTAN,0,0,0,Other Vehicular
+MANHATTAN,0,1,1,Failure to Yield Right-of-Way
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Lost Consciousness
+MANHATTAN,0,0,0,Prescription Medication
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,1,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Driver Inexperience
+MANHATTAN,0,1,1,Unspecified
+MANHATTAN,0,0,0,Other Vehicular
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Other Vehicular
+MANHATTAN,0,1,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Fatigued/Drowsy
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Driver Inexperience
+MANHATTAN,0,0,0,Oversized Vehicle
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,1,0,Failure to Yield Right-of-Way
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,1,1,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Other Vehicular
+MANHATTAN,0,1,1,Unspecified
+MANHATTAN,0,0,0,Driver Inexperience
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Backing Unsafely
+MANHATTAN,0,0,0,Backing Unsafely
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Failure to Yield Right-of-Way
+MANHATTAN,0,1,0,Other Electronic Device
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,1,0,Fatigued/Drowsy
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Fatigued/Drowsy
+MANHATTAN,0,0,0,Backing Unsafely
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Failure to Yield Right-of-Way
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,1,0,Unspecified
+MANHATTAN,0,0,0,Other Vehicular
+MANHATTAN,0,0,0,Backing Unsafely
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,1,1,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Failure to Yield Right-of-Way
+MANHATTAN,0,0,0,Physical Disability
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,0,0,
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Other Vehicular
+MANHATTAN,0,0,0,Outside Car Distraction
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Failure to Yield Right-of-Way
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Other Vehicular
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,0,0,Failure to Yield Right-of-Way
+MANHATTAN,0,1,1,Driver Inattention/Distraction
+MANHATTAN,0,1,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Other Vehicular
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Traffic Control Disregarded
+MANHATTAN,0,0,0,Outside Car Distraction
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Failure to Yield Right-of-Way
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,1,1,Turning Improperly
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Oversized Vehicle
+MANHATTAN,0,0,0,Fatigued/Drowsy
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,1,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Lost Consciousness
+MANHATTAN,0,0,0,Prescription Medication
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,1,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Other Vehicular
+MANHATTAN,0,0,0,Fatigued/Drowsy
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Failure to Yield Right-of-Way
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,1,1,Unspecified
+MANHATTAN,0,0,0,Lost Consciousness
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Passenger Distraction
+MANHATTAN,0,0,0,Backing Unsafely
+MANHATTAN,0,0,0,Turning Improperly
+MANHATTAN,0,0,0,Lost Consciousness
+MANHATTAN,0,0,0,Fatigued/Drowsy
+MANHATTAN,0,0,0,Driver Inattention/Distraction
+MANHATTAN,0,2,0,Unspecified
+MANHATTAN,0,0,0,Physical Disability
+MANHATTAN,0,1,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Lost Consciousness
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,0,0,Unspecified
+MANHATTAN,0,1,1,Aggressive Driving/Road Rage
+MANHATTAN,0,0,0,Lost Consciousness
+MANHATTAN,0,0,0,Unspecified
+QUEENS,0,1,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Fatigued/Drowsy
+QUEENS,0,0,0,Failure to Keep Right
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,2,2,Driver Inattention/Distraction
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,1,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Fatigued/Drowsy
+QUEENS,0,0,0,Backing Unsafely
+QUEENS,0,1,0,Unspecified
+QUEENS,0,0,0,Turning Improperly
+QUEENS,0,0,0,Fatigued/Drowsy
+QUEENS,0,0,0,Lost Consciousness
+QUEENS,0,0,0,Backing Unsafely
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Fatigued/Drowsy
+QUEENS,0,0,0,Backing Unsafely
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Oversized Vehicle
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,1,1,Driver Inattention/Distraction
+QUEENS,0,0,0,Prescription Medication
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Prescription Medication
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Backing Unsafely
+QUEENS,0,0,0,Backing Unsafely
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,3,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Backing Unsafely
+QUEENS,0,0,0,Fatigued/Drowsy
+QUEENS,0,0,0,Fatigued/Drowsy
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,1,0,Turning Improperly
+QUEENS,0,1,0,Unspecified
+QUEENS,0,1,0,Unspecified
+QUEENS,0,0,0,Lost Consciousness
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Fatigued/Drowsy
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Lost Consciousness
+QUEENS,0,0,0,Backing Unsafely
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Physical Disability
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Backing Unsafely
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Lost Consciousness
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Fatigued/Drowsy
+QUEENS,0,0,0,Prescription Medication
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,View Obstructed/Limited
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Unspecified
+QUEENS,0,1,1,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Other Vehicular
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Other Vehicular
+QUEENS,0,0,0,Traffic Control Disregarded
+QUEENS,0,0,0,Unsafe Speed
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Failure to Yield Right-of-Way
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Other Vehicular
+QUEENS,0,0,0,Physical Disability
+QUEENS,0,0,0,Driver Inexperience
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,0,0,Unspecified
+QUEENS,0,1,1,View Obstructed/Limited
+QUEENS,0,0,0,Lost Consciousness
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,2,0,Other Vehicular
+QUEENS,0,0,0,Alcohol Involvement
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,1,1,Driver Inattention/Distraction
+QUEENS,0,0,0,Driver Inattention/Distraction
+QUEENS,0,0,0,Fatigued/Drowsy
+QUEENS,0,0,0,Backing Unsafely
+STATEN ISLAND,0,0,0,Failure to Keep Right
+STATEN ISLAND,0,0,0,Unspecified
+STATEN ISLAND,0,1,0,Traffic Control Disregarded
+STATEN ISLAND,0,0,0,Unspecified
+STATEN ISLAND,0,0,0,Failure to Yield Right-of-Way
+STATEN ISLAND,0,0,0,Driver Inattention/Distraction
+STATEN ISLAND,0,0,0,Illness
+STATEN ISLAND,0,4,0,Unspecified
+STATEN ISLAND,0,0,0,Failure to Yield Right-of-Way
+STATEN ISLAND,0,1,0,Unspecified
+STATEN ISLAND,0,0,0,Unspecified
+STATEN ISLAND,0,0,0,Unspecified
+STATEN ISLAND,0,0,0,Failure to Yield Right-of-Way
+STATEN ISLAND,0,0,0,Driver Inattention/Distraction
+STATEN ISLAND,0,0,0,Unspecified
+STATEN ISLAND,0,0,0,Driver Inattention/Distraction
+STATEN ISLAND,0,0,0,Lost Consciousness
+STATEN ISLAND,0,2,0,Unspecified
+STATEN ISLAND,0,0,0,Unspecified
+STATEN ISLAND,0,0,0,Unspecified
+STATEN ISLAND,0,0,0,Alcohol Involvement
+STATEN ISLAND,0,3,0,Failure to Yield Right-of-Way
+STATEN ISLAND,0,0,0,Unspecified
+STATEN ISLAND,0,0,0,Driver Inattention/Distraction
+STATEN ISLAND,0,0,0,Unspecified
